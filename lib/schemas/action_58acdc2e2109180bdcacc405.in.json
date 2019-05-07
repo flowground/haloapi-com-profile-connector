@@ -1,0 +1,15 @@
+{
+    "type": "object",
+    "properties": {
+        "player": {
+            "required": true,
+            "type": "string"
+        },
+        "size": {
+            "type": "number"
+        },
+        "crop": {
+            "type": "string"
+        }
+    }
+}

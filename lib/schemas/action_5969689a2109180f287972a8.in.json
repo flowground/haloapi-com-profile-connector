@@ -1,0 +1,9 @@
+{
+    "type": "object",
+    "properties": {
+        "player": {
+            "required": true,
+            "type": "string"
+        }
+    }
+}
